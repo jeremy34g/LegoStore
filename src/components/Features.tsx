@@ -1,5 +1,3 @@
-"use client";
-
 import { Package, Shield, Truck, Headphones } from "lucide-react";
 
 const features = [

@@ -1,5 +1,3 @@
-"use client";
-
 import { ProductCard, Product } from "./ProductCard";
 
 const featuredProducts: Product[] = [
